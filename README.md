@@ -49,7 +49,7 @@ I selected **E-commerce** as the domain. The schema covers the following:
 ## 📊 ER Diagram
 Below is the Entity–Relationship Diagram showing how the tables are connected:
 
-ER_Diagram.png
+[ER_Diagram.png](https://github.com/ishasadavarte7180/SQL-Internship-Task1./blob/84b1968f5a3feeb7c08e89240cdf6c18beee9322/ER_Diagram.png)
 
 
 ## 📜 SQL Script
