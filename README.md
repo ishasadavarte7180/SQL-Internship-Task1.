@@ -54,9 +54,9 @@ Below is the Entity–Relationship Diagram showing how the tables are connected:
 
 ## 📜 SQL Script
 
-schema.sql → SQL script to create schema
+schema.sql → SQL script to create schema (https://github.com/ishasadavarte7180/SQL-Internship-Task1./blob/7f38d92f6c18edf86cb9b38157ecf3299697d4b5/Schema.sql)
 
-ERD.png → Entity Relationship Diagram
+
    
 
 
